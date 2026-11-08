@@ -1,3 +1,9 @@
+
+## Video
+
+[Ver video de demostración del proyecto](https://drive.google.com/file/d/1KVX4PkHIEC_g-IvbBPWChbQR0ULIMRhs/view?usp=sharing)
+
+
 # Proyecto final · Pronóstico de series de tiempo en producción
 
 **Computación Avanzada — Cierre del curso**
